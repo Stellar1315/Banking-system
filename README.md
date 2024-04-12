@@ -1,2 +1,2 @@
 # Simple banking system
-Simple banking system, made with JAVA. Just to challenge myself and for fun :D
+Doenst have a GUI (yet). Most strings, method names, attributes, etc. are translated from Dutch, so if u spot a typo, please ignore it. 
