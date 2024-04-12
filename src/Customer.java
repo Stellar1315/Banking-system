@@ -6,7 +6,6 @@ public class Customer {
     private int pincode;
     private ArrayList<Account> accounts;
     private int errors;
-
     public Customer(String firstname, String lastname, int pincode){
         this.firstname = ((firstname.trim()).toLowerCase());
         this.lastname = ((lastname.trim()).toLowerCase());
